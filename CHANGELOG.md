@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.2.6] - 2025-10-19
+
+### Added
+- Summer 2025 effects.
+
 ## [2.2.5] - 2025-05-27
 ### Fixed
 - Adds pointer-events: none; to the divs containing the low craft number and the strange part/killstreak icons. <https://github.com/juliarose/steam-trade-offer-enhancer/pull/12>
