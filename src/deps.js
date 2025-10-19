@@ -387,7 +387,7 @@ const shared = {
                     // construct icon for strange parts
                     const partsEl = document.createElement('img');
                     
-                    partsEl.setAttribute('src', 'https://tf2.kresenko.com/assets/wrench.png');
+                    partsEl.setAttribute('src', 'https://itempedia.tf/assets/wrench.png');
                     partsEl.classList.add('parts');
                     
                     // add it to the icons element
@@ -398,7 +398,7 @@ const shared = {
                     // construct icon for killstreak
                     const ksEl = document.createElement('img');
                     
-                    ksEl.setAttribute('src', 'https://tf2.kresenko.com/assets/icon-ks.png');
+                    ksEl.setAttribute('src', 'https://itempedia.tf/assets/icon-ks.png');
                     ksEl.classList.add('ks');
                     
                     // add it to the icons element
@@ -744,6 +744,20 @@ const shared = {
                 'Shining Bokeh': 370,
                 'Playful Aurora': 371,
                 'Frisky Morning': 372,
+                'Drunkard': 373,
+                'Blades of Betrayal': 374,
+                'Death\'s Daggers': 376,
+                'Fully Charged': 377,
+                'Overcharged': 379,
+                'Piercing Headache': 380,
+                'Decimating Wind': 381,
+                'Ocean Swirl': 382,
+                'Toxic Swirl': 384,
+                'Candle Flame': 385,
+                'Sizzling Aroma': 387,
+                'Toxic Aroma': 389,
+                'Current Conductor': 390,
+                'Sandy': 392,
                 'Hot': 701,
                 'Isotope': 702,
                 'Cool': 703,
@@ -909,6 +923,20 @@ const shared = {
                 'Award Winning': 3190,
                 'Operatic Triumph': 3192,
                 'Tangled Lights': 3193,
+                'Seamine': 3194,
+                'Iconic Outline': 3196,
+                'Subtle Silhouette': 3198,
+                'Ocean Reef': 3199,
+                'Lost Signal': 3200,
+                'Summer Wave': 3201,
+                'Shark Attack': 3202,
+                'Hazardous Gas': 3203,
+                'Phantasmal Fog': 3204,
+                'Split Malice': 3206,
+                'Void Crawlers': 3208,
+                'Fossil Fueled': 3209,
+                'Tar Pit': 3210,
+                'Morbidly Beast': 3211,
             },
             /**
              * Includes effect image in element.
@@ -935,7 +963,7 @@ const shared = {
              * @returns {string} URL string
              */
             getEffectURL(value) {
-                return `https://tf2.kresenko.com/assets/particles/${value}_94x94.png`;
+                return `https://itempedia.tf/assets/particles/${value}_94x94.png`;
             }
         }
     }
