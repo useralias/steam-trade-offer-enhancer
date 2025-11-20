@@ -506,6 +506,7 @@ const scripts = [
             .icons img.ks {
                 width: 14px;
                 height: 15px;
+                padding-top: 5px;
             }
             
             .lowcraft {
@@ -676,6 +677,7 @@ const scripts = [
             .icons img.ks {
                 width: 14px;
                 height: 15px;
+                padding-top: 5px;
             }
             
             .lowcraft {
@@ -822,6 +824,7 @@ const scripts = [
             .strange:before {
                 content: " ";
                 position: absolute;
+                pointer-events: none;
                 z-index: 1;
                 top: 2px;
                 left: 2px;
@@ -844,6 +847,7 @@ const scripts = [
             .icons img.ks {
                 width: 14px;
                 height: 15px;
+                padding-top: 5px;
             }
             
             .lowcraft {
@@ -1001,6 +1005,7 @@ const scripts = [
             .icons img.ks {
                 width: 14px;
                 height: 15px;
+                padding-top: 5px;
             }
             
             .lowcraft {
@@ -1465,6 +1470,7 @@ const scripts = [
             .icons img.ks {
                 width: 14px;
                 height: 15px;
+                padding-top: 5px;
             }
             
             .lowcraft {
