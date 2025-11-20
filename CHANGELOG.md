@@ -1,9 +1,15 @@
 # Changelog
 
+## [2.2.7] - 2025-11-20
+
+### Fixed
+- A dead zone with items that have the strange elevated quality (e.g. Strange Unusual), specifically on profile <https://github.com/juliarose/steam-trade-offer-enhancer/pull/15>.
+
 ## [2.2.6] - 2025-10-19
 
 ### Added
 - Summer 2025 effects.
+- Halloween 2025 effects.
 
 ## [2.2.5] - 2025-05-27
 ### Fixed
